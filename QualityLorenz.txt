@@ -1,0 +1,6 @@
+git clone https://github.com/BR00TManu/Test_BR00TManu_QualityLorenz
+git status
+git pull
+git add QualityLorenz.txt
+git commit -m "neue user.txt"
+git push
