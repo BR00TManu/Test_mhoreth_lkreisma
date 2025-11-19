@@ -1,0 +1,4 @@
+git clone <repository>
+git add BR00TManu
+git commit -m
+git pull (änderungen von Lorenz)
