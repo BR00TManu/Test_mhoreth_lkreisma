@@ -5,3 +5,6 @@ Kreismayr Lorenz
 
 mhoreth@htblasteyr.onmicrosoft.com
 lkreisma@htl-steyr.ac.at
+
+Git Befehle:
+
