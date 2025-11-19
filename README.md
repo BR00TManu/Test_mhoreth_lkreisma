@@ -18,3 +18,14 @@ git checkout <branchname>
 git push
 git pull
 git merge <branch> <branch>
+git commit
+git add
+git push
+git pull
+git branch
+git checkout
+git init
+git status
+git diff
+git reset
+
